@@ -1,7 +1,7 @@
 package com.oauthlogin;
 
 import com.facebook.react.ReactActivity;
-
+//so this is the main activity on android?
 public class MainActivity extends ReactActivity {
 
     /**
